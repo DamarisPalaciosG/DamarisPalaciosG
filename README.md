@@ -40,12 +40,13 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 # 🌱 Actualmente estoy aprendiendo
 
+# 🌱 Actualmente estoy aprendiendo
 
-- Power BI avanzado y modelado de datos.
-- Optimización de consultas SQL.
-- Buenas prácticas de visualización de datos.
-- Machine Learning para análisis predictivo.
-
+- Business Intelligence aplicado a la toma de decisiones estratégicas.
+- Power BI: modelado de datos, creación de dashboards interactivos y generación de insights.
+- Optimización de consultas SQL para análisis eficiente de grandes volúmenes de información.
+- Mejores prácticas de visualización de datos para comunicar hallazgos de manera efectiva.
+- Diseño y seguimiento de KPIs para medir desempeño operativo y apoyar la mejora continua.
 
 
 # 🛠️ Tecnologías y herramientas
