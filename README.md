@@ -40,8 +40,6 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 # 🌱 Actualmente estoy aprendiendo
 
-# 🌱 Actualmente estoy aprendiendo
-
 - Business Intelligence aplicado a la toma de decisiones estratégicas.
 - Power BI: modelado de datos, creación de dashboards interactivos y generación de insights.
 - Optimización de consultas SQL para análisis eficiente de grandes volúmenes de información.
