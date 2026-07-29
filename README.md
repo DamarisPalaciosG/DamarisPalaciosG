@@ -3,7 +3,7 @@
 Ingeniera Industrial + Data Analyst especializada en transformar datos en decisiones estratégicas de negocio. Combino mi experiencia en optimización de procesos con el análisis de datos para identificar oportunidades de mejora, reducir costos, incrementar la eficiencia operativa y fortalecer indicadores clave de desempeño (KPIs). Manejo Excel, SQL, Python, Tableau y Power BI para extraer, analizar y visualizar información, desarrollando dashboards e insights accionables que impulsan el cumplimiento de los objetivos del negocio.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Analista+de+Datos+%7C+Ingeniera+Industrial+y+de+Sistemas;Transformando+datos+en+decisiones+de+negocio;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Optimización+de+procesos+y+KPIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=+Analista+de+Datos+%7C+Ingeniera+Industrial+y+de+Sistemas;Transformando+datos+en+decisiones+de+negocio;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Optimización+de+procesos+y+KPIs" alt="Typing SVG" />
 </div>
 
 <p align="center">
