@@ -138,33 +138,7 @@ Python • Pandas • Matplotlib • Seaborn
 
 ---
 
-## 3. 🚗 Aplicación Web de Análisis Exploratorio de Vehículos
-
-**Objetivo**
-
-Desarrollar una aplicación web interactiva para explorar datos de vehículos usados.
-
-**Herramientas**
-
-Python • Plotly • Streamlit • GitHub
-
-**Lo que hice**
-
-- Desarrollo de la aplicación.
-- Histogramas interactivos.
-- Diagramas de dispersión.
-- Implementación y despliegue.
-
-**Resultados**
-
-- Visualización dinámica de información.
-- Exploración sencilla para cualquier usuario.
-
-
-
----
-
-## 4. 🧪 Evaluación de un Test A/B
+## 3. 🧪 Evaluación de un Test A/B
 
 **Objetivo**
 
@@ -186,34 +160,7 @@ Python • Pandas • SciPy
 - Evaluación estadística de diferencias.
 - Recomendaciones basadas en evidencia.
 
-
 ---
-
-## 5. 🗄️ Análisis con SQL
-
-**Objetivo**
-
-Responder preguntas de negocio utilizando consultas SQL.
-
-**Herramientas**
-
-PostgreSQL
-
-**Lo que hice**
-
-- JOIN
-- GROUP BY
-- Window Functions
-- CTE
-- Agregaciones
-- Consultas complejas
-
-**Resultados**
-
-- Obtención de métricas clave.
-- Optimización de consultas.
-- Generación de reportes.
-
 
 
 
