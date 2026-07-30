@@ -82,34 +82,140 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 # 📂 Proyectos Destacados
 
-📌 **Análisis de abandono de clientes (Telecom)**
+## 1. 📊 Análisis Estadístico de Planes de Telecomunicaciones
 
-- Limpieza y transformación de datos.
+**Objetivo**
+
+Identificar cuál de los planes genera mayor rentabilidad para una empresa de telecomunicaciones mediante análisis estadístico.
+
+**Herramientas**
+
+Python • Pandas • SciPy • Matplotlib
+
+**Lo que hice**
+
+- Limpieza y preparación de datos.
 - Análisis exploratorio.
+- Estadística descriptiva.
 - Pruebas de hipótesis.
-- Visualizaciones.
-- Recomendaciones de negocio.
+- Visualización de resultados.
+
+**Resultados**
+
+- Se identificó el plan con mayor ingreso promedio.
+- Se evaluó el comportamiento de los usuarios.
+- Se generaron recomendaciones para marketing.
+
+🔗 **Repositorio:** (https://github.com/DamarisPalaciosG/Analisis_Estadistico_de_Planes_de_Telecomunicaciones)
 
 ---
 
-📌 **Sistema de recomendación para e-commerce**
+## 2. 🎮 Análisis del Mercado de Videojuegos
 
-- Validación de datos.
-- Pruebas A/B.
+**Objetivo**
+
+Encontrar los factores que determinan el éxito comercial de un videojuego para apoyar campañas de marketing.
+
+**Herramientas**
+
+Python • Pandas • Matplotlib • Seaborn
+
+**Lo que hice**
+
+- Limpieza de datos.
+- Análisis exploratorio.
+- Identificación de tendencias.
+- Comparación entre plataformas.
+- Análisis por región.
+
+**Resultados**
+
+- Identificación de géneros con mayor potencial.
+- Detección de plataformas líderes.
+- Factores asociados al éxito de ventas.
+
+🔗 **Repositorio:** (https://github.com/DamarisPalaciosG/Analisis_del_mercado_de_videojuegos_-Factores-de_exito)
+
+---
+
+## 3. 🚗 Aplicación Web de Análisis Exploratorio de Vehículos
+
+**Objetivo**
+
+Desarrollar una aplicación web interactiva para explorar datos de vehículos usados.
+
+**Herramientas**
+
+Python • Plotly • Streamlit • GitHub
+
+**Lo que hice**
+
+- Desarrollo de la aplicación.
+- Histogramas interactivos.
+- Diagramas de dispersión.
+- Implementación y despliegue.
+
+**Resultados**
+
+- Visualización dinámica de información.
+- Exploración sencilla para cualquier usuario.
+
+
+
+---
+
+## 4. 🧪 Evaluación de un Test A/B
+
+**Objetivo**
+
+Determinar si un nuevo sistema de recomendaciones mejora la conversión de usuarios.
+
+**Herramientas**
+
+Python • Pandas • SciPy
+
+**Lo que hice**
+
+- Auditoría de datos.
+- Validación del experimento.
+- Pruebas Z.
 - Corrección de Bonferroni.
-- Análisis estadístico.
+
+**Resultados**
+
+- Evaluación estadística de diferencias.
+- Recomendaciones basadas en evidencia.
+
 
 ---
 
-📌 **Dashboard de KPIs Operativos**
+## 5. 🗄️ Análisis con SQL
 
-- Power BI.
-- SQL.
-- Excel.
-- Visualización interactiva.
-- Seguimiento de indicadores.
+**Objetivo**
 
----
+Responder preguntas de negocio utilizando consultas SQL.
+
+**Herramientas**
+
+PostgreSQL
+
+**Lo que hice**
+
+- JOIN
+- GROUP BY
+- Window Functions
+- CTE
+- Agregaciones
+- Consultas complejas
+
+**Resultados**
+
+- Obtención de métricas clave.
+- Optimización de consultas.
+- Generación de reportes.
+
+
+
 
 # 📫 Conecta conmigo
 
