@@ -160,6 +160,7 @@ Python • Pandas • SciPy
 - Evaluación estadística de diferencias.
 - Recomendaciones basadas en evidencia.
 
+🔗 **Repositorio:** (https://github.com/DamarisPalaciosG/Analisis_de_Embudo_de_Conversion_y_Evaluacion_de_Test_A-B)
 ---
 
 
