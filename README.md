@@ -11,13 +11,13 @@ Ingeniera Industrial + Data Analyst especializada en transformar datos en decisi
   <a href="mailto:damarispalgarcia@gmail.com"><img src="https://img.shields.io/badge/Correo-Contacto-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-# 🚀 Sobre mí
+# Sobre mí....
 
-Soy **Ingeniera Industrial y de Sistemas** con experiencia en **análisis de datos, optimización de procesos e indicadores de desempeño (KPIs)**.
+Soy Ingeniera Industrial y de Sistemas con experiencia en análisis de datos, optimización de procesos e indicadores de desempeño (KPIs).
 
-Durante más de **6 años** trabajé analizando información operativa en el sector salud, asegurando la calidad de los datos, automatizando reportes y generando información para apoyar la toma de decisiones estratégicas.
+Durante más de 6 años trabajé analizando información operativa en el sector salud, asegurando la calidad de los datos, automatizando reportes y generando información para apoyar la toma de decisiones estratégicas.
 
-Actualmente me especializo como **Data Analyst**, desarrollando proyectos con **Python, SQL, Excel y Power BI**, donde aplico limpieza de datos, análisis exploratorio, visualización y análisis estadístico para transformar datos en información accionable.
+Actualmente me especializo como Data Analyst, desarrollando proyectos con **Python, SQL, Excel y Tableau**, donde aplico limpieza de datos, análisis exploratorio, visualización y análisis estadístico para transformar datos en información accionable.
 
 Me apasiona resolver problemas mediante el análisis de datos y encontrar oportunidades de mejora que generen impacto en las organizaciones.
 
@@ -29,7 +29,7 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 ---
 
-# 🔭 Actualmente estoy trabajando en
+# Actualmente estoy trabajando en...
 
 - 📊 Construcción de mi portafolio profesional de Data Analytics.
 - 🐍 Desarrollo de proyectos de análisis con Python y SQL.
@@ -38,7 +38,7 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 ---
 
-# 🌱 Actualmente estoy aprendiendo
+# Actualmente estoy aprendiendo...
 
 - Business Intelligence aplicado a la toma de decisiones estratégicas.
 - Power BI: modelado de datos, creación de dashboards interactivos y generación de insights.
@@ -82,7 +82,7 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 # 📂 Proyectos Destacados
 
-## 1. 📊 Análisis Estadístico de Planes de Telecomunicaciones
+## 1. Análisis Estadístico de Planes de Telecomunicaciones
 
 **Objetivo**
 
@@ -110,7 +110,7 @@ Python • Pandas • SciPy • Matplotlib
 
 ---
 
-## 2. 🎮 Análisis del Mercado de Videojuegos
+## 2. Análisis del Mercado de Videojuegos
 
 **Objetivo**
 
@@ -138,7 +138,7 @@ Python • Pandas • Matplotlib • Seaborn
 
 ---
 
-## 3. 🧪 Evaluación de un Test A/B
+## 3. Evaluación de un Test A/B
 
 **Objetivo**
 
