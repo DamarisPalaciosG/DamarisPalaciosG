@@ -11,7 +11,7 @@ Ingeniera Industrial + Data Analyst especializada en transformar datos en decisi
   <a href="mailto:damarispalgarcia@gmail.com"><img src="https://img.shields.io/badge/Correo-Contacto-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-# Sobre mí....
+# Sobre mí...
 
 Soy Ingeniera Industrial y de Sistemas con experiencia en análisis de datos, optimización de procesos e indicadores de desempeño (KPIs).
 
@@ -29,7 +29,7 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 ---
 
-# Actualmente estoy trabajando en...
+# Actualmente estoy trabajando en
 
 - 📊 Construcción de mi portafolio profesional de Data Analytics.
 - 🐍 Desarrollo de proyectos de análisis con Python y SQL.
@@ -38,7 +38,7 @@ Aquí encontrarás proyectos desarrollados con datasets reales, dashboards y cas
 
 ---
 
-# Actualmente estoy aprendiendo...
+# Actualmente estoy aprendiendo
 
 - Business Intelligence aplicado a la toma de decisiones estratégicas.
 - Power BI: modelado de datos, creación de dashboards interactivos y generación de insights.
